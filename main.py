@@ -4,6 +4,8 @@ import time
 
 import model
 
+#a asd
+
 
 def AsDict(guest):
   return {'id': guest.key.id(), 'first': guest.first, 'last': guest.last}
