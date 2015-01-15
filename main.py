@@ -4,7 +4,7 @@ import time
 
 import model
 
-#a asd
+#a asd2
 
 
 def AsDict(guest):
